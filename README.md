@@ -18,7 +18,7 @@ I'm a passionate data driven enthusiast with a mathematics background.
 <p>
   <a href="https://www.linkedin.com/in/rijalularif/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="https://www.instagram.com/fariz.fadila/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
-  <a href="https://public.tableau.com/app/profile/rijalularif" target="_blank"><img alt="Tableau Public" src="https://img.shields.io/badge/tableau-%23E4405F.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=blue" /></a>  
+  <a href="https://public.tableau.com/app/profile/rijalul.arif" target="_blank"><img alt="Tableau Public" src="https://img.shields.io/badge/tableau-%23E4405F.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=blue" /></a>  
 </p>
 
 ## :chart_with_upwards_trend: GitHub Stats
