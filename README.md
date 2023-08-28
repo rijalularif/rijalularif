@@ -10,10 +10,10 @@ https://drive.google.com/file/d/18bjrZBM48_k-HlgI3dasRPLsQa_kQXwN/view?usp=shari
 I'm a passionate data driven enthusiast with a mathematics background.
 
 - 👀 I’m interested in data science and enjoy exploring everything about data.
-- :trophy: I'm Graduated from <a href="https://drive.google.com/file/d/16WV8SZqtsJv8P4b5yPnEP0aBZX5pzmC3/view?usp=drive_link" target="_blank">Digital Talent Scholarship 2022 Program specializing in Data Analytics</a>.
+- :trophy: I'm Graduated from <a href="https://drive.google.com/file/d/16WV8SZqtsJv8P4b5yPnEP0aBZX5pzmC3/view?usp=drive_link" target="_blank">Digital Talent Scholarship 2023 Program specializing in Data Analytics</a>.
 - :trophy: I have completed <a href="https://drive.google.com/file/d/1WMI-805NIcIqf92mv3TOXX4MTdZAkPWt/view?usp=drive_link" target="_blank">Mulai Karir Anda Sebagai Seorang Data Analyst</a>.
 - :trophy: I have completed <a href="https://www.coursera.org/account/accomplishments/professional-cert/CHA368J6L3DE" target="_blank">Google Data Analytics Professional Certificate</a>.
-- :trophy: I have completed <a href="https://drive.google.com/file/d/18bjrZBM48_k-HlgI3dasRPLsQa_kQXwN/view?usp=sharing" target="_blank">Google Data Analytics Professional Certificate</a>.
+- :trophy: I have completed <a href="https://drive.google.com/file/d/18bjrZBM48_k-HlgI3dasRPLsQa_kQXwN/view?usp=sharing" target="_blank">UI/UX Design</a>.
 - :book: I'm currently learning about Data Analytics and Data Science.
 
 ## ⚙ Latest Projects
