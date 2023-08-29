@@ -34,11 +34,11 @@ I'm a passionate data driven enthusiast with a mathematics background.
 <!-- |-------------------------------------|-----------| -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijalularif&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijalularif&theme=radical)
 
-## :chart_with_upwards_trend: GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijalularif&show_icons=true&theme=radical)
+<!--- ## :chart_with_upwards_trend: GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijalularif&show_icons=true&theme=radical) --->
 
-## :computer: Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijalularif&theme=radical)
+<!--- ## :computer: Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijalularif&theme=radical) --->
 
 <!---
 rijalularif/rijalularif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
