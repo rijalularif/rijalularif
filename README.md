@@ -24,14 +24,10 @@ I'm a passionate data driven enthusiast with a information systems background.
   <a href="https://public.tableau.com/app/profile/rijalul.arif" target="blank"><img alt="Tableau Public" src="https://img.shields.io/badge/tableau-%23E4405F.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=blue" /></a>  
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijalularif&layout=compact)
-
 ## 📊 GitHub Stats & 🖥️ Most Used Languages
 <!-- | ## :chart_with_upwards_trend: GitHub Stats | ## :computer: Most Used Languages | -->
 <!-- |-------------------------------------|-----------| -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijalularif&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijalularif&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijalularif&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!--- ## :chart_with_upwards_trend: GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijalularif&show_icons=true&theme=radical) --->
