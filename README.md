@@ -4,10 +4,10 @@
 I'm a passionate data driven enthusiast with a information systems background.
 
 - 👀 I’m interested in data analytics and enjoy exploring everything about data.
-- 🏅 I'm Graduated from <a href="https://drive.google.com/file/d/16WV8SZqtsJv8P4b5yPnEP0aBZX5pzmC3/view?usp=drive_link" target="_blank">Digital Talent Scholarship 2023 Program specializing in Data Analytics</a>.
-- 🏆 I have completed <a href="https://drive.google.com/file/d/1WMI-805NIcIqf92mv3TOXX4MTdZAkPWt/view?usp=drive_link" target="_blank">Mulai Karir Anda Sebagai Seorang Data Analyst</a>.
-- 🏆 I have completed <a href="https://www.coursera.org/account/accomplishments/professional-cert/CHA368J6L3DE" target="_blank">Google Data Analytics Professional Certificate</a>.
-- 🖼️ I have completed <a href="https://drive.google.com/file/d/18bjrZBM48_k-HlgI3dasRPLsQa_kQXwN/view?usp=sharing" target="_blank">UI/UX Design</a>.
+- 🏅 I'm Graduated from <a href="https://drive.google.com/file/d/16WV8SZqtsJv8P4b5yPnEP0aBZX5pzmC3/view?usp=drive_link" target="blank">Digital Talent Scholarship 2023 Program specializing in Data Analytics</a>.
+- 🏆 I have completed <a href="https://drive.google.com/file/d/1WMI-805NIcIqf92mv3TOXX4MTdZAkPWt/view?usp=drive_link" target="blank">Mulai Karir Anda Sebagai Seorang Data Analyst</a>.
+- 🏆 I have completed <a href="https://www.coursera.org/account/accomplishments/professional-cert/CHA368J6L3DE" target="blank">Google Data Analytics Professional Certificate</a>.
+- 🖼️ I have completed <a href="https://drive.google.com/file/d/18bjrZBM48_k-HlgI3dasRPLsQa_kQXwN/view?usp=sharing" target="blank">UI/UX Design</a>.
 - 📑 I'm currently learning about Data Analytics and Data Science.
 
 ## ⚙ Latest Projects
@@ -19,9 +19,9 @@ I'm a passionate data driven enthusiast with a information systems background.
 
 ## 🔦 You Can Find Me at
 <p>
-  <a href="https://www.linkedin.com/in/rijalularif/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="https://www.instagram.com/rijalula/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
-  <a href="https://public.tableau.com/app/profile/rijalul.arif" target="_blank"><img alt="Tableau Public" src="https://img.shields.io/badge/tableau-%23E4405F.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=blue" /></a>  
+  <a href="https://www.linkedin.com/in/rijalularif/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://www.instagram.com/rijalula/" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+  <a href="https://public.tableau.com/app/profile/rijalul.arif" target="blank"><img alt="Tableau Public" src="https://img.shields.io/badge/tableau-%23E4405F.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=blue" /></a>  
 </p>
 
 ## 📊 GitHub Stats & 🖥️ Most Used Languages
