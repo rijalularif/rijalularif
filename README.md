@@ -13,8 +13,8 @@ I'm a passionate data driven enthusiast with a information systems background.
 ## ⚙ Latest Projects
 | **Project**                         | **Tools** |
 |-------------------------------------|-----------|
-| <a href="https://github.com/rijalularif/fruit_classification_k-nearest_neighbor" target="blank">Fruit Classification K-Nearest Neighbor | Python |
-| <a href="https://github.com/rijalularif/Data-Analitik-Google/blob/main/Course%208/studi_kasus_cyclistic.ipynb" target="blank">Analisis Data COVID 19 di Indonesia | R |
+| <a href="https://github.com/rijalularif/fruit_classification_k-nearest_neighbor" target="blank">Fruit Classification K-Nearest Neighbor | Python, Google Colab |
+| <a href="https://github.com/rijalularif/Data-Analitik-Google/blob/main/Course%208/studi_kasus_cyclistic.ipynb" target="blank">Analisis Data COVID 19 di Indonesia | R, Google Colab |
 | <a href="https://github.com/rijalularif/web-tbparu" target="blank">Classification and Mapping Pulmonary TB</a> | Laravel, Visual Studio Code, MySQL |
 
 ## 🔦 You Can Find Me at
