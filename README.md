@@ -29,6 +29,8 @@ I'm a passionate data driven enthusiast with a information systems background.
 <!-- |-------------------------------------|-----------| -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijalularif&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rijalularif&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <!--- ## :chart_with_upwards_trend: GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijalularif&show_icons=true&theme=radical) --->
 
