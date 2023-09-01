@@ -9,13 +9,15 @@ I'm a passionate data driven enthusiast with a information systems background.
 - 🏆 I have completed <a href="https://www.coursera.org/account/accomplishments/professional-cert/CHA368J6L3DE" target="blank">Google Data Analytics Professional Certificate</a>.
 
 ## ⚙ Check My Project
-<a href="https://github.com/rijalularif?tab=repositories" target="blank">My Project
+<p>
+  <a href="https://github.com/rijalularif?tab=repositories" target="blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=black"/></a>
+</p>
 
 ## 🔦 You Can Find Me at
 <p>
   <a href="https://www.linkedin.com/in/rijalularif/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="https://www.instagram.com/rijalula/" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
-  <a href="https://public.tableau.com/app/profile/rijalul.arif" target="blank"><img alt="Tableau Public" src="https://img.shields.io/badge/tableau-%23E4405F.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=blue" /></a>  
+  <a href="https://www.instagram.com/rijalularif/" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+  <a href="https://public.tableau.com/app/profile/rijalularif" target="blank"><img alt="Tableau" src="https://img.shields.io/badge/tableau-%23E4405F.svg?&style=for-the-badge&logo=tableau&logoColor=white&color=blue" /></a>
 </p>
 
 ## 📊 GitHub Stats & 🖥️ Most Used Languages
