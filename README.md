@@ -7,15 +7,9 @@ I'm a passionate data driven enthusiast with a information systems background.
 - 🏅 I'm Graduated from <a href="https://drive.google.com/file/d/16WV8SZqtsJv8P4b5yPnEP0aBZX5pzmC3/view?usp=drive_link" target="blank">Digital Talent Scholarship 2023 Program specializing in Data Analytics</a>.
 - 🏆 I have completed <a href="https://drive.google.com/file/d/1WMI-805NIcIqf92mv3TOXX4MTdZAkPWt/view?usp=drive_link" target="blank">Mulai Karir Anda Sebagai Seorang Data Analyst</a>.
 - 🏆 I have completed <a href="https://www.coursera.org/account/accomplishments/professional-cert/CHA368J6L3DE" target="blank">Google Data Analytics Professional Certificate</a>.
-- 🖼️ I have completed <a href="https://drive.google.com/file/d/18bjrZBM48_k-HlgI3dasRPLsQa_kQXwN/view?usp=sharing" target="blank">UI/UX Design</a>.
-- 📑 I'm currently learning about Data Analytics and Data Science.
 
-## ⚙ Latest Projects
-| **Project**                         | **Tools** |
-|-------------------------------------|-----------|
-| <a href="https://github.com/rijalularif/fruit_classification_k-nearest_neighbor" target="blank">Fruit Classification K-Nearest Neighbor | Python, Google Colab |
-| <a href="https://github.com/rijalularif/Data-Analitik-Google/blob/main/Course%208/studi_kasus_cyclistic.ipynb" target="blank">Analisis Data COVID 19 di Indonesia | R, Google Colab |
-| <a href="https://github.com/rijalularif/web-tbparu" target="blank">Classification and Mapping Pulmonary TB</a> | Laravel, Visual Studio Code, MySQL |
+## ⚙ Check My Project
+<a href="https://github.com/rijalularif?tab=repositories" target="blank">My Project
 
 ## 🔦 You Can Find Me at
 <p>
