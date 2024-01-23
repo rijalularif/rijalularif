@@ -5,6 +5,7 @@ I'm a passionate data driven enthusiast with a information systems background.
 
 - 👀 I’m interested in data analytics and enjoy exploring everything about data
 - 🏅 I'm Graduated from Information Systems in 2022 at Malikussaleh University
+- 🏆 I have successfully passed all the requirements for <a href="https://learn.microsoft.com/en-us/users/rijalularif/credentials/74eaa596b444f2a5" target="blank">Microsoft Certified: Azure Data Fundamentals</a>
 - 🏅 I'm Graduated from <a href="https://drive.google.com/file/d/16WV8SZqtsJv8P4b5yPnEP0aBZX5pzmC3/view?usp=drive_link" target="blank">Digital Talent Scholarship 2023 Program specializing in Data Analytics</a>
 - 🏆 I have completed <a href="https://drive.google.com/file/d/1WMI-805NIcIqf92mv3TOXX4MTdZAkPWt/view?usp=drive_link" target="blank">Mulai Karir Anda Sebagai Seorang Data Analyst</a>
 - 🏆 I have completed <a href="https://www.coursera.org/account/accomplishments/professional-cert/CHA368J6L3DE" target="blank">Google Data Analytics Professional Certificate</a>
